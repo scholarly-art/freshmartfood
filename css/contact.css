@@ -1,0 +1,14 @@
+.header{
+    padding: 20px;
+    text-align: center;
+    background-color: #800080;
+    padding: 30px;
+}
+
+.contact-flex{
+    display: flex;
+    flex-direction: row;
+    min-width: 200px;
+    flex-wrap: wrap;
+    padding: 20px
+}

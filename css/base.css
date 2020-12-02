@@ -1,0 +1,9 @@
+image, img{
+    border-radius: 25px;
+    max-height: auto;
+    max-width: 100%;
+}
+
+.footer{
+    text-align: center;
+}
